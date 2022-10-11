@@ -29,6 +29,7 @@ sudo - admin user
 yum - a downloader and installer
 2) cd /var/www/html
 3) sudo vi index.html
+4)sudo systemctl start httpd
 1 file will open press i to insert data
 <html>
 <body>
